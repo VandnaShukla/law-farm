@@ -295,13 +295,13 @@ header ul li a.active{
 	display: block;
 	margin: 0 auto;
 	padding: 6px 20px;
-	background-color: #e8bf5d;
+	background-color: #5d7be8;
 	border: none;
 	color: #111;
 }
 .form .btn:hover {
 	background-color:#111 ;
-	color:#e8bf5d ;
+	color:blue ;
 }
 .map {
 	box-shadow: -25px 25px 1px #e8bf5d;
